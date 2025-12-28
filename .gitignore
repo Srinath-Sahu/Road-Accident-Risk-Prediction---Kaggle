@@ -1,0 +1,5 @@
+# Ignore large data files
+*.csv
+
+# Except for the sample submission if you want to keep a template
+!sample_submission.csv
